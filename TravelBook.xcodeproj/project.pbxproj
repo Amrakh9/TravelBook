@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B568E7AA2C1CDAE90074F6EF /* TableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B568E7A92C1CDAE90074F6EF /* TableViewController.swift */; };
 		B5C814FB2C1B71750044082E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5C814FA2C1B71750044082E /* AppDelegate.swift */; };
 		B5C814FD2C1B71750044082E /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5C814FC2C1B71750044082E /* SceneDelegate.swift */; };
 		B5C814FF2C1B71750044082E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5C814FE2C1B71750044082E /* ViewController.swift */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		B568E7A92C1CDAE90074F6EF /* TableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewController.swift; sourceTree = "<group>"; };
 		B5C814F72C1B71750044082E /* TravelBook.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TravelBook.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B5C814FA2C1B71750044082E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		B5C814FC2C1B71750044082E /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -62,6 +64,7 @@
 				B5C814FC2C1B71750044082E /* SceneDelegate.swift */,
 				B5C814FE2C1B71750044082E /* ViewController.swift */,
 				B5C815002C1B71750044082E /* Main.storyboard */,
+				B568E7A92C1CDAE90074F6EF /* TableViewController.swift */,
 				B5C815062C1B71770044082E /* Assets.xcassets */,
 				B5C815082C1B71770044082E /* LaunchScreen.storyboard */,
 				B5C8150B2C1B71770044082E /* Info.plist */,
@@ -144,6 +147,7 @@
 				B5C815052C1B71750044082E /* TravelBook.xcdatamodeld in Sources */,
 				B5C814FF2C1B71750044082E /* ViewController.swift in Sources */,
 				B5C814FB2C1B71750044082E /* AppDelegate.swift in Sources */,
+				B568E7AA2C1CDAE90074F6EF /* TableViewController.swift in Sources */,
 				B5C814FD2C1B71750044082E /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
